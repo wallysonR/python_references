@@ -11,3 +11,6 @@ operador_not_in ="maça" not in frutas
 print (operador_not_in)
 
 operador_in = 200 in saques # false pois 200 não está em saques
+print(operador_in)
+
+#Lembrando que ele é case sensitive, ou seja letras maisculas e minusculas importam aqui.
